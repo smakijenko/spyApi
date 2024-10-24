@@ -1,0 +1,7 @@
+Flask==3.0.3
+Jinja2==3.1.4
+pyobjc==10.3.1
+pyobjc-framework-WebKit==10.3.1
+requests==2.32.3
+selenium==4.25.0
+webdriver-manager==4.0.2
